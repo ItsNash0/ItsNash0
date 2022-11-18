@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://pbs.twimg.com/profile_images/1152641871140851714/d8NTi-VV_400x400.png" align="center" style="width: 100px" />
+<img src="https://avatars.githubusercontent.com/u/24396312?v=4" align="center" style="width: 100px" />
 </div>  
   
 
